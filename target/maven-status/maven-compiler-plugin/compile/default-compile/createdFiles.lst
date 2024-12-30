@@ -1,0 +1,4 @@
+com\automation\config\PlaywrightConfig.class
+com\automation\models\TestDataModel.class
+com\automation\pages\InternetCoveragePage.class
+com\automation\utils\FileUtils.class

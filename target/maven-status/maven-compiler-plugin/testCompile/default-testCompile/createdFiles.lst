@@ -1,0 +1,3 @@
+com\automation\utils\TestDataProvider.class
+com\automation\base\TestBase.class
+com\automation\tests\InternetCoverageTest.class
